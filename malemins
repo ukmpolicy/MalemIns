@@ -16,7 +16,6 @@ clear
 echo -e $red" >> Thanks For Using My Tools :)) <<"
 echo -e $white"               M413-M    "
 echo ""
-echo -e $white"  >>   email     : m413-m@dr.com     "
 echo -e $white"  >>   instagram : mr.malem    "
 
 sleep 1
@@ -33,12 +32,8 @@ echo -e -n $blue" [X]> ACTIVE		: "$green; uptime
 echo -e $blue "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 echo ""
 echo -e $red" [X]> Thanks To : "
-echo -e $red"   			4WSec $white "~" $red "Mr.Tenwap $white" "~" $red "ChokyChoky.ID" "
-echo -e $white" [X]> Greetz    : "
-echo -e $white"   		Anak Bawang Cyber$red "X" $white"Security Darknet"$red "X" $white"Moslem Cyber Team""
-echo ""
-echo ""
-echo -e $green"				contact : m413-m@dr.com"
+echo -e $red"   				 $white "~" $red "UKM POLICY $white" "~"  "
+echo -e $green""
 
 echo -e $yellow"OoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoO"
 echo ""
