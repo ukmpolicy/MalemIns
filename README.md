@@ -9,7 +9,8 @@ coded by Mr.Malem
 # How To Install :
 
 sudo apt-get update && apt-get upgrade
-
+git clone https://github.com/ukmpolicy/MalemIns.git
+cd MalemIns
 chmod +x malemins
 
 
